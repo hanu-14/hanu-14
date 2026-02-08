@@ -19,6 +19,19 @@ I’m particularly interested in **reasoning under uncertainty**, system-level d
 A conceptual project exploring how **crowd-derived human signals**, interpreted through LLM-style reasoning, can complement conventional transit tracking systems by adjusting **confidence**, not predicting exact arrival times.
 
 ---
+---
+
+### 🔹 Experimental AI Game (Work in Progress)
+An experimental game project exploring **AI-driven interaction,
+player behavior, and system feedback loops**.
+
+The focus is not on graphics or scale, but on:
+- Understanding how players respond to AI-controlled systems
+- Designing adaptive mechanics based on player input
+- Learning through rapid prototyping and iteration
+
+This project is currently in **active development** and serves as
+a hands-on learning space for applying AI concepts creatively.
 
 ### 🔹 LaundryFlow *(working title)*
 A Swiggy-like **on-demand laundry aggregation platform** that:
