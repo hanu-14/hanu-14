@@ -83,8 +83,8 @@ Building intelligent systems that solve real-world problems.
 ### github activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanu-14&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanu-14&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hanu-14&show_icons=true&theme=github_dark&hide_border=true&rank_icon=percentile&cache_seconds=86400" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanu-14&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" width="40%"/>
 </p>
 
 <p align="center">
