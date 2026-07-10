@@ -1,23 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=Mohammed%20Hanan&fontSize=70&fontAlignY=30&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=220&section=header&text=Mohammed%20Hanan&fontSize=72&fontAlignY=30&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision;Automation;Open+Source+Builder" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Automation+Architect;I+Automate+Anything;RAG+%7C+Hermes+Agent+%7C+Clawbot;Hugging+Face+%7C+Computer+Vision;Open+Source+Bounty+Hunter" alt="Typing SVG" /></a>
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://github.com/hanu-14"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hanu-14"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-hanan-m-t-p-92ba5437a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hananmtp313@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://itsmehanan.netlify.app/"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=webpack&logoColor=white"/></a>
 </p>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
@@ -27,7 +26,9 @@
 name: Mohammed Hanan
 location: Kerala, India
 education: B.Tech Electrical & Electronics Engineering
-roles: [AI Engineer, Computer Vision, Automation, Open Source Contributor, Founder@CosmIQ]
+vibe: I automate anything — code, workflows, agents, the physical world.
+roles: [AI Enthusiast, Automation Architect, Open Source Bounty Hunter, Builder]
+tools: [Hugging Face, RAG, Hermes Agent, Clawbot, PyTorch, OpenCV, FastAPI, Docker, C, Embedded Systems]
 ---
 ```
 
@@ -35,17 +36,25 @@ roles: [AI Engineer, Computer Vision, Automation, Open Source Contributor, Found
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- ABOUT SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="25" /> about
+<br/>
 
+<!-- CINEMATIC ABOUT -->
 <table>
 <tr>
-<td width="65%">
+<td width="60%" valign="top">
 
-Electrical & Electronics Engineering student building **AI systems**, **computer vision platforms**, and **autonomous agents**. Founder of CosmIQ. I turn research into practical software.
+### the pitch
+
+I don't just write code — I build systems that make other code obsolete.
+
+Electrical & Electronics Engineering student who crossed into AI and never looked back. I've built autonomous agents that hunt freelance jobs, visual intelligence platforms that search CCTV footage with natural language, and RAG pipelines that give machines memory.
+
+I work with **Hugging Face**, **RAG**, **Hermes Agent**, **Clawbot**, **PyTorch**, **OpenCV** — whatever it takes to make a system run itself.
+
+**If it can be automated, I automate it.**
 
 </td>
-<td width="35%" align="center">
+<td width="40%" align="center" valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api?username=hanu-14&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&custom_title=contributions" width="100%"/>
 
@@ -61,9 +70,8 @@ Electrical & Electronics Engineering student building **AI systems**, **computer
 
 <br/>
 
-<!-- ACHIEVEMENTS -->
 <details open>
-<summary><b>achievements</b></summary>
+<summary><b>the highlights</b></summary>
 
 <br/>
 
@@ -74,10 +82,12 @@ Electrical & Electronics Engineering student building **AI systems**, **computer
 <br/>
 
 - **National AIR 1** — ARC Dubai 2024
-- Filed patent in **battery-free biometric systems**
-- **1,500+** contributions in current year
-- Built **PhotonIQ** — AI visual intelligence platform
-- Built **Perpetual** — autonomous job hunting agent
+- Patent — **battery-free biometric systems**
+- **1,500+ contributions** this year (and climbing)
+- **PhotonIQ** — AI visual intelligence, search CCTV with natural language
+- **Perpetual** — autonomous agent that hunts freelance jobs for you
+- Fixed Solidity vulnerabilities in **Bounty-Hunters** (LiquidityPool, CrossChainBridge, MultiSigWallet)
+- Contributed actions to **Pipedream** (11.5k stars) — Voice Download + LinkupAPI V2
 
 </details>
 
@@ -87,18 +97,19 @@ Electrical & Electronics Engineering student building **AI systems**, **computer
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- TECH STACK -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> stack
+<!-- WEAPONS (tech stack) -->
+## the arsenal
 
 <br/>
 
 <p align="center">
+  <code>Hugging Face</code> <code>RAG</code> <code>Hermes Agent</code> <code>Clawbot</code> <code>LangChain</code>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 <p align="center">
@@ -113,7 +124,8 @@ Electrical & Electronics Engineering student building **AI systems**, **computer
 <p align="center">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/stm32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 <br/>
@@ -122,49 +134,49 @@ Electrical & Electronics Engineering student building **AI systems**, **computer
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- FEATURED PROJECTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" /> featured projects
+<!-- PROJECTS -->
+## the builds
 
 <br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [PhotonIQ](https://github.com/hanu-14/photoniq)
 
-AI-powered visual intelligence platform. Search CCTV footage using natural language.
+> Search CCTV footage with natural language. AI visual intelligence.
 
 `PyTorch` `RT-DETR` `OpenCV` `FastAPI`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [Perpetual](https://github.com/hanu-14/perpetual)
 
-Autonomous freelance job hunting platform with agent orchestration.
+> An autonomous agent that finds, applies, and wins freelance jobs. You sleep — it works.
 
-`Python` `Agents` `Automation` `Telegram API`
+`Python` `Hermes Agent` `Automation` `Telegram API`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [CosmIQ](https://github.com/hanu-14/cosmiq)
 
-AI automation tools, developer products, and practical software.
+> AI automation tools, developer products, and systems that run themselves.
 
-`AI` `Automation` `Developer Tools`
+`AI` `Automation` `RAG` `Developer Tools`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### [Computer Vision](https://github.com/hanu-14/computer-vision)
 
-RT-DETR detection, bounding box optimization, inference benchmarking.
+> Object detection, bounding boxes, inference optimization, model evaluation.
 
-`PyTorch` `OpenCV` `Object Detection`
+`PyTorch` `OpenCV` `Clawbot` `RT-DETR`
 
 </td>
 </tr>
@@ -176,8 +188,8 @@ RT-DETR detection, bounding box optimization, inference benchmarking.
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- ACTIVITY GRAPH -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25" /> activity
+<!-- ACTIVITY -->
+## the grind
 
 <br/>
 
@@ -195,35 +207,39 @@ RT-DETR detection, bounding box optimization, inference benchmarking.
 
 <br/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+
 <!-- OPEN SOURCE -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Asia-Australia.png" width="25" /> open source
+## the bounties
 
 <br/>
 
 <table>
 <tr>
 <th>repo</th>
-<th>contribution</th>
+<th>hit</th>
 </tr>
 <tr>
 <td>UnsafeLabs/Bounty-Hunters</td>
-<td>LiquidityPool price manipulation fix</td>
+<td>LiquidityPool — first-depositor manipulation fix</td>
 </tr>
 <tr>
 <td>UnsafeLabs/Bounty-Hunters</td>
-<td>CrossChainBridge replay attack fix</td>
+<td>CrossChainBridge — replay attack fix</td>
 </tr>
 <tr>
 <td>UnsafeLabs/Bounty-Hunters</td>
-<td>MultiSigWallet race condition fix</td>
+<td>MultiSigWallet — confirmation race condition fix</td>
 </tr>
 <tr>
 <td>PipedreamHQ/pipedream</td>
-<td>Download Voice Message action</td>
+<td>Download Voice Message action (new)</td>
 </tr>
 <tr>
 <td>PipedreamHQ/pipedream</td>
-<td>LinkupAPI V2 auth update</td>
+<td>LinkupAPI V2 — auth update</td>
 </tr>
 </table>
 
@@ -234,15 +250,15 @@ RT-DETR detection, bounding box optimization, inference benchmarking.
 </p>
 
 <!-- CURRENTLY -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="25" /> currently
+## right now
 
 <br/>
 
 <p align="center">
-  <code>building</code> CosmIQ product suite & autonomous agents<br/>
-  <code>learning</code> Distributed systems, advanced CV, DevOps<br/>
-  <code>contributing</code> Open source bounties across high-star repos<br/>
-  <code>reading</code> AI research, system design, embedded systems<br/>
+  <code>🏗️ building</code> CosmIQ — autonomous agent suite<br/>
+  <code>📚 learning</code> Distributed systems, advanced RAG, agent orchestration<br/>
+  <code>🎯 hunting</code> Open source bounties across high-impact repos<br/>
+  <code>📖 reading</code> AI papers, system design, embedded systems<br/>
 </p>
 
 <br/>
@@ -251,22 +267,22 @@ RT-DETR detection, bounding box optimization, inference benchmarking.
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- CONTACT -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" width="25" /> connect
+<!-- CONNECT -->
+## connect
 
 <br/>
 
 <p align="center">
   <a href="mailto:hananmtp313@gmail.com"><img src="https://img.shields.io/badge/hananmtp313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://itsmehanan.netlify.app/"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hanu-14"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-hanan-m-t-p-92ba5437a/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/hanu-14"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hanu-14&label=visitors&color=58A6FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=hanu-14&label=glances&color=58A6FF&style=flat" />
 </p>
 
 <br/>
@@ -276,5 +292,5 @@ RT-DETR detection, bounding box optimization, inference benchmarking.
 </p>
 
 <p align="center">
-  <sub>crafted with intent &bull; dark mode recommended</sub>
+  <sub>built with intent &bull; automated since day one</sub>
 </p>
