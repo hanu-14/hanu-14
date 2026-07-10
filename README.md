@@ -75,7 +75,7 @@ Building intelligent systems that solve real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/hanu-14" width="80%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanu-14&theme=radical" width="80%"/>
 </p>
 
 ---
