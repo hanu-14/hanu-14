@@ -1,90 +1,168 @@
-# Hi, I’m Mohammed Hanan 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Mohammed%20Hanan&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Automation&descAlignY=55&descSize=18" width="100%" />
+</p>
 
-I’m an **Electrical & Electronics Engineering (EEE) student** and the **founder of CosmIQ Software Solutions**, focused on building **affordable, automation-driven software** through deep research and practical application of **AI and LLM-based systems**.
+```yaml
+---
+name: Mohammed Hanan
+role: AI Engineer | EEE Student | Builder
+location: Kerala, India
+tagline: Building AI systems, autonomous agents and intelligent software.
+---
+```
 
-I’m particularly interested in **reasoning under uncertainty**, system-level design, and using AI to make complex solutions **accessible and low-cost**.
+<p align="center">
+  <a href="https://github.com/hanu-14"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hanu-14"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hanan@cosmiq.tech"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://cosmiq.tech"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
-## Research & Innovation
-- Filed a **patent in battery-free biometric systems**, exploring energy-efficient and sustainable authentication mechanisms
-- Deep interest in **AI systems, LLM reasoning layers, and automation-first software design**
-- Focus on building systems that respect **real-world constraints**, not hype
+## about
+
+Electrical & Electronics Engineering student building AI systems, computer vision platforms, and autonomous agents. Founder of CosmIQ Software Solutions. Passionate about turning research into practical software that solves real problems.
+
+<details open>
+<summary><b>achievements</b></summary>
+<br>
+
+- **National AIR 1** — ARC Dubai 2024
+- Filed patent in **battery-free biometric systems**
+- Active open source contributor (1,500+ contributions in 2026)
+- $2,300+ earned through open source bounties
+- Built **PhotonIQ** — AI visual intelligence platform for CCTV search
+- Built **Perpetual** — autonomous freelance job hunting agent
+
+</details>
 
 ---
 
-## Current & Upcoming Projects
+## stack
 
-### 🔹 Crowd-Aware Transit Estimation
-A conceptual project exploring how **crowd-derived human signals**, interpreted through LLM-style reasoning, can complement conventional transit tracking systems by adjusting **confidence**, not predicting exact arrival times.
+<details open>
+<summary><b>languages & core</b></summary>
 
----
----
+```
+Python     ·················· ████████████████████ 95%
+C/C++      ·················· ████████████████░░░░ 75%
+JavaScript ·················· ████████░░░░░░░░░░░░ 40%
+SQL        ·················· ██████████░░░░░░░░░░ 50%
+Bash       ·················· ██████████░░░░░░░░░░ 50%
+```
 
-### 🔹 Experimental AI Game (Work in Progress)
-An experimental game project exploring **AI-driven interaction,
-player behavior, and system feedback loops**.
+</details>
 
-The focus is not on graphics or scale, but on:
-- Understanding how players respond to AI-controlled systems
-- Designing adaptive mechanics based on player input
-- Learning through rapid prototyping and iteration
+<details>
+<summary><b>AI / computer vision</b></summary>
 
-This project is currently in **active development** and serves as
-a hands-on learning space for applying AI concepts creatively.
+`PyTorch` `OpenCV` `Transformers` `Hugging Face` `YOLO` `RT-DETR` `ONNX` `Inference Optimization` `Vision Pipelines`
 
-### 🔹 LaundryFlow *(working title)*
-A Swiggy-like **on-demand laundry aggregation platform** that:
-- Connects users with local laundry providers
-- Optimizes logistics and order flow
-- Aims to formalize and digitize fragmented laundry services
+</details>
 
-*(Name alternatives: `WashGrid`, `CleanRoute`, `LaundryLink`)*
+<details>
+<summary><b>backend & infra</b></summary>
 
----
+`FastAPI` `Flask` `PostgreSQL` `Supabase` `NeonDB` `SQLite` `Docker` `Linux` `GitHub Actions` `CI/CD` `Oracle Cloud`
 
-### 🔹 SkillNest *(working title)*
-A **centralized service platform for blue-collar and field workers**, including:
-- Plumbers
-- Electricians
-- Coconut pluckers
-- Lane movers and manual labor services
+</details>
 
-The goal is to provide:
-- Stable work access for workers
-- Transparent pricing for customers
-- A unified platform for essential local services
+<details>
+<summary><b>electronics & embedded</b></summary>
 
-*(Name alternatives: `WorkHalo`, `HandsOn`, `TradeHub`, `LocalCraft`)*
+`ATmega328P` `STM32` `Circuit Design` `Embedded C` `PWM` `Timers` `Protocols` `Instrumentation`
 
----
+</details>
 
-## Cybersecurity (Learning Phase)
-- Beginner in cybersecurity, but a **serious self-learner**
-- Exploring system vulnerabilities, defensive thinking, and secure design
-- Interested in understanding systems from both **build** and **break** perspectives
+<details>
+<summary><b>languages spoken</b></summary>
+
+`English` `Hindi` `Arabic` `Urdu` `Malayalam` `Spanish`
+
+</details>
 
 ---
 
-## Languages
-Fluent in:
-- English
-- Hindi
-- Malayalam
-- Urdu
-- Arabic  
+## featured projects
 
-Also familiar with basic Spanish.
+### [PhotonIQ](https://github.com/hanu-14/photoniq)
+AI-powered visual intelligence platform. Search CCTV footage using natural language.
+
+`PyTorch` `RT-DETR` `Computer Vision` `FastAPI`
+
+### [Perpetual](https://github.com/hanu-14/perpetual)
+Autonomous freelance job hunting platform. Discovers opportunities, generates proposals, automates revenue.
+
+`Python` `Agents` `Automation` `Telegram API`
+
+### [CosmIQ](https://github.com/hanu-14/cosmiq)
+AI startup building automation tools, developer products, and practical AI solutions.
+
+`AI` `Automation` `Developer Tools`
+
+### [Computer Vision Experiments](https://github.com/hanu-14/computer-vision)
+RT-DETR object detection, bounding box optimization, inference benchmarking, model evaluation.
+
+`OpenCV` `PyTorch` `Detection` `Benchmarking`
+
+### [Electronics Lab](https://github.com/hanu-14/electronics)
+Microcontroller programming, circuit simulation, embedded C, STM32 and ATmega experiments.
+
+`Embedded C` `STM32` `Circuits` `Firmware`
 
 ---
 
-## How I Build
-- Start from **first principles**
-- Prefer **clarity over complexity**
-- Design systems that are **explainable and maintainable**
-- Treat uncertainty as a feature, not a flaw
+## activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanu-14&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanu-14&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanu-14&theme=github-dark-blue&hide_border=true" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=hanu-14&theme=github_dark&hide_border=true" width="70%" />
+</p>
 
 ---
 
-📌 This profile reflects my current journey as a student, researcher, and founder.  
-It will evolve as my projects, research, and ventures grow.
+## open source contributions
+
+| repo | issue | bounty |
+|------|-------|--------|
+| UnsafeLabs/Bounty-Hunters | #918 LiquidityPool fix | $600 |
+| UnsafeLabs/Bounty-Hunters | #920 CrossChainBridge fix | $900 |
+| UnsafeLabs/Bounty-Hunters | #916 MultiSigWallet fix | $800 |
+| PipedreamHQ/pipedream | Download Voice Message action | — |
+| PipedreamHQ/pipedream | LinkupAPI V2 auth update | — |
+
+---
+
+## currently
+
+- **Building**: CosmIQ product suite and autonomous agent systems
+- **Learning**: Advanced Python, distributed systems, computer vision research
+- **Contributing**: Open source bounties on high-star repos
+- **Reading**: AI research papers, system design, embedded systems
+
+---
+
+## contact
+
+```
+email:  hanan@cosmiq.tech
+github: github.com/hanu-14
+web:    cosmiq.tech
+```
+
+<p align="center">
+  <small>crafted with intent — dark mode recommended</small>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" width="100%" />
+</p>
