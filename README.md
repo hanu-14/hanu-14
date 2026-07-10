@@ -75,7 +75,7 @@ Building intelligent systems that solve real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://trophy.benkou.dev/?username=hanu-14&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" width="90%"/>
+  <img src="https://githubcard.com/hanu-14.svg" width="80%"/>
 </p>
 
 ---
