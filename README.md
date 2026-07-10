@@ -58,11 +58,11 @@ Building intelligent systems that solve real-world problems.
 
 | project | description | stack |
 |---------|-------------|-------|
-| [**PhotonIQ**](https://github.com/hanu-14/photoniq) | AI-powered visual intelligence platform. Search CCTV footage using natural language with RT-DETR computer vision. | `PyTorch` `RT-DETR` `OpenCV` `FastAPI` |
-| [**Perpetual**](https://github.com/hanu-14/perpetual) | Autonomous freelance job hunting platform that discovers opportunities, generates proposals, and automates revenue through intelligent agent orchestration. | `Python` `Agents` `Automation` `Telegram API` |
-| [**CosmIQ**](https://github.com/hanu-14/cosmiq) | AI startup building automation tools, developer products, practical AI solutions and autonomous systems. | `AI` `Automation` `Developer Tools` |
-| [**Computer Vision**](https://github.com/hanu-14/computer-vision) | RT-DETR object detection, bounding box optimization, inference benchmarking, and model evaluation experiments. | `OpenCV` `PyTorch` `Detection` `Benchmarking` |
-| [**Electronics Lab**](https://github.com/hanu-14/electronics) | Microcontroller programming, circuit simulation, embedded C, STM32 and ATmega experiments with documentation. | `Embedded C` `STM32` `Circuits` `Firmware` |
+| [**PhotonIQ**](https://github.com/hanu-14/photoniq) | AI-powered visual intelligence platform. Search CCTV footage using natural language with RT-DETR computer vision. | PyTorch RT-DETR OpenCV FastAPI |
+| [**Perpetual**](https://github.com/hanu-14/perpetual) | Autonomous freelance job hunting platform that discovers opportunities, generates proposals, and automates revenue through intelligent agent orchestration. | Python Agents Automation Telegram API |
+| [**CosmIQ**](https://github.com/hanu-14/cosmiq) | AI startup building automation tools, developer products, practical AI solutions and autonomous systems. | AI Automation Developer Tools |
+| [**Computer Vision**](https://github.com/hanu-14/computer-vision) | RT-DETR object detection, bounding box optimization, inference benchmarking, and model evaluation experiments. | OpenCV PyTorch Detection Benchmarking |
+| [**Electronics Lab**](https://github.com/hanu-14/electronics) | Microcontroller programming, circuit simulation, embedded C, STM32 and ATmega experiments with documentation. | Embedded C STM32 Circuits Firmware |
 
 ---
 
@@ -75,7 +75,7 @@ Building intelligent systems that solve real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanu-14&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" width="90%"/>
+  <img src="https://trophy.benkou.dev/?username=hanu-14&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" width="90%"/>
 </p>
 
 ---
