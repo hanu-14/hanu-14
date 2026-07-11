@@ -111,7 +111,7 @@ Building intelligent systems that solve real-world problems.
 
 ---
 
-### open source contributions
+### open-source contributions
 
 | repo | contribution |
 |------|-------------|
@@ -127,7 +127,7 @@ Building intelligent systems that solve real-world problems.
 
 - **🏗️ Building** — CosmIQ product suite and autonomous agent systems
 - **📚 Learning** — Advanced Python, distributed systems, computer vision research
-- **🎯 Contributing** — Open source bounties across high-star repositories
+- **🎯 Contributing** — open-source bounties across high-star repositories
 - **📖 Reading** — AI research papers, system design, embedded systems
 
 ---
