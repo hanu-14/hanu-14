@@ -83,7 +83,7 @@ Building intelligent systems that solve real-world problems.
 ### achievements
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hanu-14&limit=5&theme=radical&combine_all_yearly_contributions=true" width="70%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=hanu-14&limit=5&theme=radical&combine_all_yearly_contributions=true" width="75%"/>
 </p>
 
 ---
