@@ -71,7 +71,7 @@ Building intelligent systems that solve real-world problems.
 <p align="center">
   <b>🏆 National AIR 1</b> — ARC Dubai 2024 &nbsp;&middot;&nbsp;
   <b>📜 Patent Filed</b> — Battery-free biometric systems &nbsp;&middot;&nbsp;
-  <b>⚡ 1,500+</b> Contributions this year
+  <b>⚡ 1,500+</b> Contributions
 </p>
 
 <p align="center">
